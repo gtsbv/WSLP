@@ -1,2 +1,2 @@
-# Meteo4D-Suite
-# AI/ML container installer for WSL (Weather Subsystem for Linux) platforms
+# Meteo4D-Suite a WSL platform (Weather Subsystem for Linux)
+# AI/ML container installer
