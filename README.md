@@ -1,4 +1,3 @@
 # Meteo4D-Suite
-# wsldi
-Weather Subsystem Linux Distribution Installer
-
+# AI/ML container installer on dHCI for WSL
+# (Weather Subsystem for Linux) platforms
